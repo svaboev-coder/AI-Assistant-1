@@ -1,0 +1,5 @@
+# Токен вашего Telegram-бота (получите у @BotFather)
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+
+# API токен для Chutes AI (получите на https://chutes.ai/)
+CHUTES_API_TOKEN=your_chutes_api_token_here
